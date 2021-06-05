@@ -1,6 +1,6 @@
-# Read Me Generator 
+# Britani's ReadMe Generator 
 ## Description 
-Creating a Read Me
+This application creates a professional ReadMe for your project. All that's needed to utilize the app is a quick installation and then you will need to run the comman "node index.js" from the index.js file. Happy ReadMe making!
 ## Table of Contents
 [Installation](#Installation)
 [Usage](#Usage)
@@ -10,15 +10,15 @@ Creating a Read Me
 [Questions](#Questions)
 ## Installation 
 to install necessary dependencies, run the following command:
-npm run 
+npm i
 ## Usage 
-This is open source, please contribute!
+If you have any questions, please reach out to the creater at britaniwalley@outlook.com
 ## License 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 ## Contributing 
-You can contribute to the repo by submitting changes to britaniwalley github account
+This is an open source application, please contribute as you see fit! 
 ## Tests 
-run test
+n/a
 ## Questions
 If you have any questions, please contact me directly at britaniwalley@outlook.com 
 Visit my Github [here](https://github.com/britaniwalley)
